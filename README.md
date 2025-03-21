@@ -5,11 +5,15 @@ CryptoFileTool is a dual-mode application that supports file encryption and decr
 ## Features
 
 - **Encryption/Decryption Algorithms:**  
-  - **AES:** Uses salt and PBKDF2-based key derivation for secure encryption.
-  - **XOR:** A simple method for demonstration purposes (not secure for production).
+  - **AES:** Uses salt and PBKDF2-based key derivation for secure encryption.![image](https://github.com/user-attachments/assets/96df9b86-daae-4464-844e-4034b7ab610f)
+
+  - **XOR:** A simple method for demonstration purposes (not secure for production). ![image](https://github.com/user-attachments/assets/77a51b2c-b658-4bd2-8daf-6f2210b8a084)
+
 
 - **Dual-mode Operation:**  
   - **Console Mode:** Processes files automatically by moving them from the `decode` folder to the `encode` folder (and vice versa).
+  - ![image](https://github.com/user-attachments/assets/1fdc20a9-96e1-4a0c-9e7d-90180dbedb63)
+
   - **REST API Mode:** Exposes endpoints for encryption and decryption via HTTP.
 
 - **Automatic File Handling:**  
