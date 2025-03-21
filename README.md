@@ -72,5 +72,5 @@ Example:
 Decryption Endpoint:
 POST http://localhost:5000/api/encryption/decrypt
 
-***Contributing***
+## Contributing
 Contributions are welcome! Please feel free to fork the repository, submit pull requests, or open issues for any improvements or bug fixes.
