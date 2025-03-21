@@ -1,0 +1,14 @@
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\bin\Debug\net9.0\CryptoFileTool.exe
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\bin\Debug\net9.0\CryptoFileTool.deps.json
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\bin\Debug\net9.0\CryptoFileTool.runtimeconfig.json
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\bin\Debug\net9.0\CryptoFileTool.dll
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\bin\Debug\net9.0\CryptoFileTool.pdb
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\obj\Debug\net9.0\CryptoFileTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\obj\Debug\net9.0\CryptoFileTool.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\obj\Debug\net9.0\CryptoFileTool.AssemblyInfo.cs
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\obj\Debug\net9.0\CryptoFileTool.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\obj\Debug\net9.0\CryptoFileTool.dll
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\obj\Debug\net9.0\refint\CryptoFileTool.dll
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\obj\Debug\net9.0\CryptoFileTool.pdb
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\obj\Debug\net9.0\CryptoFileTool.genruntimeconfig.cache
+C:\Users\user\RiderProjects\CryptoFileTool\CryptoFileTool\obj\Debug\net9.0\ref\CryptoFileTool.dll
