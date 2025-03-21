@@ -15,6 +15,8 @@ CryptoFileTool is a dual-mode application that supports file encryption and decr
   - ![image](https://github.com/user-attachments/assets/1fdc20a9-96e1-4a0c-9e7d-90180dbedb63)
 
   - **REST API Mode:** Exposes endpoints for encryption and decryption via HTTP.
+  - ![image](https://github.com/user-attachments/assets/b7698be8-a371-40cc-8e48-63e1843cf5e4)
+
 
 - **Automatic File Handling:**  
   Files are automatically moved to the target folder after processing. If a file with the same name exists, a timestamp suffix is added to ensure uniqueness.
