@@ -2,6 +2,12 @@
 
 CryptoFileTool is a dual-mode application that supports file encryption and decryption using different algorithms (currently AES and XOR). The project is designed to work both as a console application and as a REST API, making it flexible for local use as well as remote access.
 
+## Demo Video
+
+Watch the demo video to see CryptoFileTool in action:  
+[Demo Video on Google Drive](https://drive.google.com/file/d/1ZyCkYtjXYCw2Pd0orWy1i_coVr1MQUhi/view?usp=sharing)
+
+
 ## Features
 
 - **Encryption/Decryption Algorithms:**  
