@@ -2,15 +2,27 @@
 
 CryptoFileTool is a dual-mode application that supports file encryption and decryption using different algorithms (currently AES and XOR). The project is designed to work both as a console application and as a REST API, making it flexible for local use as well as remote access.
 
+## Demo Video
+
+Watch the demo video to see CryptoFileTool in action:  
+[Demo Video on Google Drive](https://drive.google.com/file/d/1ZyCkYtjXYCw2Pd0orWy1i_coVr1MQUhi/view?usp=sharing)
+
+
 ## Features
 
 - **Encryption/Decryption Algorithms:**  
-  - **AES:** Uses salt and PBKDF2-based key derivation for secure encryption.
-  - **XOR:** A simple method for demonstration purposes (not secure for production).
+  - **AES:** Uses salt and PBKDF2-based key derivation for secure encryption.![image](https://github.com/user-attachments/assets/96df9b86-daae-4464-844e-4034b7ab610f)
+
+  - **XOR:** A simple method for demonstration purposes (not secure for production). ![image](https://github.com/user-attachments/assets/77a51b2c-b658-4bd2-8daf-6f2210b8a084)
+
 
 - **Dual-mode Operation:**  
   - **Console Mode:** Processes files automatically by moving them from the `decode` folder to the `encode` folder (and vice versa).
+  - ![image](https://github.com/user-attachments/assets/1fdc20a9-96e1-4a0c-9e7d-90180dbedb63)
+
   - **REST API Mode:** Exposes endpoints for encryption and decryption via HTTP.
+  - ![image](https://github.com/user-attachments/assets/b7698be8-a371-40cc-8e48-63e1843cf5e4)
+
 
 - **Automatic File Handling:**  
   Files are automatically moved to the target folder after processing. If a file with the same name exists, a timestamp suffix is added to ensure uniqueness.
@@ -66,5 +78,5 @@ Example:
 Decryption Endpoint:
 POST http://localhost:5000/api/encryption/decrypt
 
-***Contributing***
+## Contributing
 Contributions are welcome! Please feel free to fork the repository, submit pull requests, or open issues for any improvements or bug fixes.
